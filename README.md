@@ -4,8 +4,7 @@ This project focuses on predicting sourcing costs using machine learning models.
 
 Dataset Information
 
-The dataset comprises sourcing information for various product combinations. Each row represents the sourcing of one unit of a particular product combination, 
-with unique combinations consisting of attributes mentioned in Columns A, B, C, D, E, F.
+The dataset comprises sourcing information for various product combinations. Each row represents the sourcing of one unit of a particular product combination, with unique combinations consisting of attributes mentioned in Columns A, B, C, D, E, F.
 Training Set: July 2020 to May 2021
 Test Set: June 2021
 
